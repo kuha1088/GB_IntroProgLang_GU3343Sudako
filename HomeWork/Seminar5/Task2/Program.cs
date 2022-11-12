@@ -1,6 +1,7 @@
 ﻿/*
-Задача 34: Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
-[345, 897, 568, 234] -> 2
+Задача 36: Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
+[3, 7, 23, 12] -> 19
+[-4, -6, 89, 6] -> 0
 */
 
 int Get(string msg)
@@ -23,23 +24,23 @@ int[] InitArray(int UserNumber)
     
     for (int i = 0; i < result.Length; i++)
     {
-        result[i] = rnd.Next(100, 1000);
+        result[i] = rnd.Next(0, 100);
     }
 
     return result;
 }
 
-int EvenSum(int[] col)
+int EvenElementsSum(int[] col)
 {
-    int count = 0;
+    int result = 0;
+
     for (int i = 0; i < col.Length; i++)
     {
-    if (col[i]%2 == 0)
-        {
-        count++;
-        }
+    if (i%2 != 0)
+    result += col[i];
     }
-    return count;
+
+    return result;
 }
 
 void PrintArray(int[] col)
@@ -49,12 +50,12 @@ void PrintArray(int[] col)
 
 void PrintResult(int r)
 {
-    Console.WriteLine($"Количество чётных чисел в массиве: {r}");
+    Console.WriteLine($"Cумма элементов, стоящих на нечётных позициях в массиве: {r}");
 }
 
 
 int ArrLenght = Get("Введите число элементов массива: ");
 int[] arr = InitArray(ArrLenght);
 PrintArray(arr);
-int result = EvenSum(arr);
+int result = EvenElementsSum(arr);
 PrintResult(result);
