@@ -1,0 +1,15 @@
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\Ex1-004.csproj.AssemblyReference.cache
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\Ex1-004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\Ex1-004.AssemblyInfoInputs.cache
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\Ex1-004.AssemblyInfo.cs
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\Ex1-004.csproj.CoreCompileInputs.cache
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\bin\Debug\net6.0\Ex1-004.exe
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\bin\Debug\net6.0\Ex1-004.deps.json
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\bin\Debug\net6.0\Ex1-004.runtimeconfig.json
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\bin\Debug\net6.0\Ex1-004.dll
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\bin\Debug\net6.0\Ex1-004.pdb
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\Ex1-004.dll
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\refint\Ex1-004.dll
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\Ex1-004.pdb
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\Ex1-004.genruntimeconfig.cache
+C:\Users\kuha1\OneDrive\Рабочий стол\CSharp\Examples\Ex1-004\obj\Debug\net6.0\ref\Ex1-004.dll
