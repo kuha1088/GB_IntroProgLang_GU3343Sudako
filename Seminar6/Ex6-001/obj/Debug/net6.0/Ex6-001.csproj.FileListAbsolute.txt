@@ -1,0 +1,15 @@
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\bin\Debug\net6.0\Ex6-001.exe
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\bin\Debug\net6.0\Ex6-001.deps.json
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\bin\Debug\net6.0\Ex6-001.runtimeconfig.json
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\bin\Debug\net6.0\Ex6-001.dll
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\bin\Debug\net6.0\Ex6-001.pdb
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\Ex6-001.csproj.AssemblyReference.cache
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\Ex6-001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\Ex6-001.AssemblyInfoInputs.cache
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\Ex6-001.AssemblyInfo.cs
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\Ex6-001.csproj.CoreCompileInputs.cache
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\Ex6-001.dll
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\refint\Ex6-001.dll
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\Ex6-001.pdb
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\Ex6-001.genruntimeconfig.cache
+C:\Users\kuha1\OneDrive\Рабочий стол\GB repositories\IntroProgLang\Seminar6\Ex6-001\obj\Debug\net6.0\ref\Ex6-001.dll
